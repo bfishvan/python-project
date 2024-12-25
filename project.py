@@ -1,0 +1,1 @@
+print("maine kr liya")
